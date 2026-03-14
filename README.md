@@ -10,7 +10,7 @@ Estructura del Proyecto
 
 Project Root
 │
-├── Images (No incuida en el repositorio)
+├── Images (no incluida en el repositorio)
 │   Archivos FITS de galaxias que contienen las bandas fotométricas g, r y z.
 │   Estos archivos representan los datos astronómicos originales que se
 │   transforman posteriormente a representaciones RGB para el entrenamiento.
@@ -22,7 +22,7 @@ Project Root
 │
 ├── outputs
 │   Resultados generados durante el entrenamiento del modelo:
-│   - checkpoints de modelos entrenados (.pt)
+│   - modelos entrenados (.pt)
 │   - métricas de entrenamiento
 │   - gráficas de desempeño
 │   - matrices de confusión y evaluaciones del modelo
@@ -37,9 +37,8 @@ Project Root
 │
 └── Auxiliares
     Notebooks experimentales y pruebas intermedias desarrolladas durante
-    las primeras fases del proyecto. Contienen prototipos, intentos de
-    implementación y exploraciones alternativas que no forman parte del
-    pipeline final consolidado.
+    las primeras fases del proyecto. Contienen prototipos y exploraciones
+    alternativas que no forman parte del pipeline final consolidado.
 
 
 Descripción del Pipeline
