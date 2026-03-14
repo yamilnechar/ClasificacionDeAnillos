@@ -8,7 +8,7 @@ Durante el desarrollo se realizaron múltiples experimentos y pruebas. Posterior
 
 Estructura del Proyecto
 
-Project Root
+```Project Root
 │
 ├── Images (no incluida en el repositorio)
 │   Archivos FITS de galaxias que contienen las bandas fotométricas g, r y z.
@@ -39,6 +39,7 @@ Project Root
     Notebooks experimentales y pruebas intermedias desarrolladas durante
     las primeras fases del proyecto. Contienen prototipos y exploraciones
     alternativas que no forman parte del pipeline final consolidado.
+```
 
 
 Descripción del Pipeline
