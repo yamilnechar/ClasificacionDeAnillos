@@ -40,6 +40,7 @@ Estructura del Proyecto
     las primeras fases del proyecto. Contienen prototipos y exploraciones
     alternativas que no forman parte del pipeline final consolidado.
 ```
+locacion de la carpeta Images: https://drive.google.com/drive/folders/1o3MKkWkvMy4NxygYTwB9NplXrmjzADhZ?usp=sharing
 
 
 Descripción del Pipeline
